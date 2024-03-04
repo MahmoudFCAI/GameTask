@@ -1,4 +1,0 @@
-# File: CS112_A1_T2_game 2_20230374.py.
-# Purpose: Players should alternate picking numbers from 1 to 9, the player that collect 3 numbers that add equal 15 win
-# Author: Mahmoud Ali Anwar Mohamed
-# ID: 20230374
